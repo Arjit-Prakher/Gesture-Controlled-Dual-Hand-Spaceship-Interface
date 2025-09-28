@@ -1,0 +1,1 @@
+## These folders should be inside Unity's asset folder
